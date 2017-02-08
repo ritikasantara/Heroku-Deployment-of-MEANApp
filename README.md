@@ -1,2 +1,2 @@
-# Heroku-Deployment-of-MEANApp
-Hosting the Recipe Blog site to Heroku platform.
+# Recipe-blog-using-MEAN-stack
+Foodtube recipe blog using Mongo db, Express.js, Angular.js and Node.js
